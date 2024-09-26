@@ -87,7 +87,7 @@ You can refer `eval/eval_llm.py` and `eval/eval_api.py` to customize the evaluat
 
 
 ## \# Contact
-If you have any comments or questions, please feel free to contact [Wei Fan](mailto:wfanag@connect.ust.hk). We will get back to you as soon as possible.
+If you have any comments or questions, please feel free to contact [Wei Fan](https://alexfan.cn). We will get back to you as soon as possible.
 
 ## \# Citation
 If you find this work useful, please consider citing our paper:
