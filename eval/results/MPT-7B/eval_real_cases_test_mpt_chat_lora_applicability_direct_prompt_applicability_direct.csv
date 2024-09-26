@@ -1,0 +1,215 @@
+regulation id,compliance,response
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.512', '164.508(c)', '164.508(a)(2)(i)(C)']",Forbid,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.512', '164.512(e)', '164.512(e)(1)']",Forbid,HIPAA Privacy Rule is applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.502(a)', '164.512(f)(1)(ii)(A)', '164.512(e)(1)(ii)', '164.512(e)(1)(i)', '164.102', '164.104', '164.534']",Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.524(a)', '164.524']",Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.502(a)', '164.502']",Forbid,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(e)(1)(i)', '164.512', '164.512(e)', '164.512(a)(1)', '164.512(a)(2)', '164.501', '164.103']",Forbid,HIPAA Privacy Rule is applicable to the case.
+"['164.512(e)', '164.512(e)(1)', '164.508(a)(1)', '164.502(a)', '164.530(c)', '164.506', '164.502(b)', '164.514(e)', '164.508', '164.510', '164.512', '164.514(d)']",Forbid,HIPAA Privacy Rule is applicable to the case.
+"['164.512(f)', '164.512(f)(1)', '164.508(a)']",Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(e)(1)(v)', '164.512(e)(1)(i)', '164.502(a)', '164.502(a)(2)', '164.502(a)(1)', '164.508', '164.534', '164.510']",Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.504(e)', '164.501', '164.506(c)(1)', '164.506(c)', '164.502(a)(1)(iii)', '164.502(d)(1)', '164.502(a)(3)', '164.512(e)', '164.514(a)', '164.514(b)', '164.514(b)(1)', '164.514(c)', '164.514(d)(2)(i)', '164.514(d)(3)(i)', '164.514(d)(3)(ii)', '164.514(d)(4)', '164.514(e)', '164.514(f)', '164.514(g)', '164.514(b)(1)(i)', '164.514(b)(2)(i)(A)', '164.514(b)(2)', '164.502(e)', '164.502', '164.512']",Forbid,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(e)', '164.512(e)(1)(ii)(A)', '164.104', '164.512']",Permit,HIPAA Privacy Rule is applicable to the case.
+"['164.512(e)', '164.512(e)(1)(i)', '164.512(e)(1)(ii)(A)']",Permit,HIPAA Privacy Rule is not applicable to the case.
+['164.502(e)(1)(i)'],Permit,HIPAA Privacy Rule is applicable to the case.
+"['164.508(c)', '164.508', '164.512(e)(1)', '164.508(a)(1)']",Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(e)', '164.512', '164.512(e)(1)(ii)(A)', '164.512(e)(1)(iv)', '164.512(e)(1)(iii)', '164.512(e)(1)(ii)(B)', '164.512(e)(1)(v)(A)', '164.500', '164.508', '164.510', '164.508(c)']",Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.512', '164.512(f)']",Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(e)', '164.512(a)', '164.508(a)(1)', '164.508(a)(2)', '164.512(k)(5)(i)', '164.504(a)', '164.501', '164.103']",Permit,HIPAA Privacy Rule is applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+['164.512(f)(1)(ii)(A)'],Permit,HIPAA Privacy Rule is applicable to the case.
+['164.512'],Forbid,HIPAA Privacy Rule is applicable to the case.
+"['164.512(e)(1)', '164.512(e)(1)(v)(A)', '164.512(e)(1)(v)(B)', '164.512(e)(1)(v)', '164.512']",Permit,HIPAA Privacy Rule is applicable to the case.
+"['164.508(c)(1)(i)', '164.502(a)', '164.508', '164.502']",Permit,HIPAA Privacy Rule is not applicable to the case.
+['164.508(c)'],Forbid,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(e)', '164.502(a)', '164.502(a)(1)', '164.502(a)(1)(vi)', '164.512']",Permit,HIPAA Privacy Rule is not applicable to the case.
+['164.512(f)(1)(ii)(A)'],Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.510(b)(1)(i)', '164.510(b)(2)(ii)', '164.510(b)(3)']",Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.502(j)(1)', '164.502(e)']",Forbid,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+['164.512(f)'],Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.504', '164.502(f)', '164.500(a)']",Forbid,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(f)', '164.104(a)']",Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.506(c)(1)', '164.512(d)', '164.512(a)', '164.512(e)(1)(i)', '164.512(e)(2)', '164.512(c)(1)(iii)(B)', '164.512(c)', '164.501']",Permit,HIPAA Privacy Rule is not applicable to the case.
+['164.512(e)(1)(ii)'],Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.508(a)(1)', '164.508(c)(1)(vi)']",Forbid,HIPAA Privacy Rule is not applicable to the case.
+['164.512(f)(6)(i)'],Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(d)', '164.502(a)', '164.508(a)(1)']",Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.512', '164.512(e)']",Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.514(a)', '164.514(b)(2)', '164.512(e)(1)(ii)', '164.512(e)(1)(i)', '164.512(e)(1)(ii)(B)', '164.512(e)(1)', '164.512']",Permit,HIPAA Privacy Rule is applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.502(a)', '164.501', '164.506']",Forbid,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(j)', '164.512(j)(1)', '164.512(f)', '164.512(j)(3)', '164.512(j)(1)(ii)', '164.512(j)(2)', '164.512(j)(4)', '164.512(j)(1)(i)']",Permit,HIPAA Privacy Rule is not applicable to the case.
+['164.512(e)(1)(i)'],Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(e)', '164.512']",Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.524(a)(1)(i)', '164.512(e)', '164.508(a)(2)', '164.508', '164.501', '164.512']",Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+['164.512(e)(1)(ii)(B)'],Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.508(a)(1)', '164.508(c)(1)', '164.502(g)(1)', '164.502(g)(2)', '164.524(c)(4)', '164.524(a)', '164.524(c)(1)', '164.524', '164.524(c)', '164.508']",Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(a)', '164.512(d)(1)', '164.512', '164.512(a)(1)', '164.512(c)', '164.501']",Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.514', '164.514(b)', '164.512(a)', '164.512(b)', '164.512(c)', '164.512(a)(1)', '164.512(e)', '164.506', '164.502(d)', '164.502', '164.508', '164.512', '164.510', '164.514(a)']",Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.524(a)(1)', '164.524', '164.502(a)', '164.502(a)(1)(i)']",Permit,HIPAA Privacy Rule is applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(e)(1)', '164.512']",Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+['164.530(c)(2)'],Permit,HIPAA Privacy Rule is applicable to the case.
+['164.512(f)'],Permit,HIPAA Privacy Rule is applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.506(a)', '164.508(a)(1)', '164.508(c)(1)', '164.506(c)(1)']",Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(f)(1)(ii)(B)', '164.512']",Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(e)', '164.512', '164.512(e)(1)']",Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(e)', '164.512', '164.508(a)(2)', '164.524(a)(1)', '164.524']",Permit,HIPAA Privacy Rule is applicable to the case.
+['164.502'],Forbid,HIPAA Privacy Rule is applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+['164.512(a)'],Permit,HIPAA Privacy Rule is applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.502', '164.512(f)(1)(ii)', '164.512(f)(6)(i)', '164.512(c)', '164.512', '164.103', '164.512(a)(2)']",Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.506(b)(1)', '164.508', '164.508(a)(2)', '164.502(b)', '164.534', '164.501', '164.502(a)', '164.508(a)(1)', '164.506', '164.522(a)']",Permit,HIPAA Privacy Rule is applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+['164.524(b)(2)'],Permit,HIPAA Privacy Rule is applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(f)(1)(ii)(B)', '164.512(f)(6)(i)', '164.512']",Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+['164.512(e)'],Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(e)', '164.512(e)(1)(i)']",Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+['164.512(e)(1)(ii)(B)'],Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.512', '164.512(e)(1)(ii)(B)', '164.526(a)', '164.526(a)(1)', '164.524(a)', '164.512(e)', '164.524(a)(1)']",Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.508(a)(1)', '164.508(c)', '164.514(e)', '164.502(f)', '164.502(g)(1)', '164.502(g)(4)', '164.502(a)', '164.502', '164.502(b)', '164.512(e)', '164.512(e)(1)(i)', '164.512(e)(1)(ii)(A)', '164.512(e)(1)(ii)(B)', '164.512(e)(1)(iv)', '164.512(e)(1)(v)', '164.512(e)(1)(vi)', '164.512(e)(1)', '164.508']",Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(e)', '164.512(e)(1)', '164.508(a)(2)', '164.508(c)(1)', '164.508(c)(2)', '164.508(c)(3)', '164.502(a)', '164.502', '164.103', '164.506', '164.508', '164.501', '164.502(b)(2)']",Permit,HIPAA Privacy Rule is applicable to the case.
+['164.512(e)(1)'],Forbid,HIPAA Privacy Rule is not applicable to the case.
+['164.512(e)'],Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(e)(1)', '164.512', '164.502(a)', '164.502(a)(1)(i)', '164.502(g)(1)', '164.502(g)(3)', '164.502(g)(3)(ii)(A)', '164.502(g)(5)', '164.502(g)(5)(i)', '164.502(g)(3)(i)(A)']",Forbid,HIPAA Privacy Rule is applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(a)(1)', '164.512(a)']",Permit,HIPAA Privacy Rule is applicable to the case.
+"['164.512(b)(1)(v)', '164.508']",Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.528(a)(2)', '164.512(d)(1)(iii)', '164.512(d)(1)', '164.512(f)', '164.514(h)(2)(i)(A)', '164.501', '164.512']",Permit,HIPAA Privacy Rule is applicable to the case.
+"['164.512(a)(2)', '164.512(f)', '164.512', '164.512(c)', '164.103', '164.502', '164.512(a)', '164.512(e)']",Permit,HIPAA Privacy Rule is applicable to the case.
+"['164.512(c)(1)', '164.512']",Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.524(a)(1)', '164.524(a)(2)(i)', '164.524(a)(1)(ii)']",Forbid,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.508(c)(1)(vi)', '164.512(e)', '164.512(e)(1)(ii)(A)', '164.508(c)(1)']",Forbid,HIPAA Privacy Rule is applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(e)', '164.530']",Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(e)(1)', '164.512']",Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.502', '164.502(g)(4)', '164.508(a)(1)', '164.508(c)(1)', '164.508(c)(1)(i)', '164.508(c)(1)(ii)', '164.508(c)(1)(iv)', '164.508']",Forbid,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+['164.512(f)(1)(ii)(B)'],Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.524(c)(4)', '164.524']",Permit,HIPAA Privacy Rule is applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.502(a)', '164.512', '164.508(c)(1)(i)', '164.508(a)']",Permit,HIPAA Privacy Rule is applicable to the case.
+"['164.512(f)(1)', '164.103']",Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.508(a)', '164.512(f)']",Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.508(b)(5)', '164.512(a)', '164.512(e)(1)(ii)', '164.512', '164.512(e)(1)', '164.512(e)(1)(i)', '164.508(a)(1)', '164.508(b)(4)', '164.502(a)', '164.502(b)(2)(v)', '164.508(c)(2)(i)', '164.512(e)(1)(ii)(B)', '164.103', '164.502(b)(2)(iii)', '164.502(a)(2)', '164.508(b)(5)(i)', '164.508(b)(1)', '164.508', '164.512(e)', '164.512(e)(1)(vi)', '164.508(a)(3)(ii)', '164.512(e)(1)(ii)(A)', '164.502(a)(1)', '164.508(c)(3)', '164.514(d)']",Permit,HIPAA Privacy Rule is not applicable to the case.
+['164.520(a)(1)'],Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(a)(1)', '164.502(a)', '164.103']",Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.512', '164.512(e)(1)(v)', '164.524(a)', '164.104', '164.512(e)', '164.524', '164.528']",Permit,HIPAA Privacy Rule is not applicable to the case.
+['164.512(e)'],Permit,HIPAA Privacy Rule is not applicable to the case.
+['164.508(b)(5)(i)'],Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(e)(1)(v)', '164.512(e)', '164.514(b)(2)', '164.514(a)', '164.502(a)', '164.502(d)(2)', '164.512(e)(1)(i)', '164.512(e)(1)', '164.512(e)(1)(ii)(B)']",Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.514(a)', '164.514(e)(3)(i)', '164.512(f)', '164.512(f)(1)(ii)', '164.512(e)']",Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.514(b)(2)(i)', '164.502(d)(1)', '164.502(d)', '164.520', '164.501', '164.514(a)', '164.506']",Permit,HIPAA Privacy Rule is applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.512', '164.512(f)(1)(ii)(B)', '164.104']",Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+['164.512(a)'],Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+['164.512(f)(1)(ii)(A)'],Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.512', '164.512(e)(1)', '164.512(e)(1)(i)', '164.512(e)']",Permit,HIPAA Privacy Rule is applicable to the case.
+"['164.512(e)', '164.500', '164.534']",Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.502(a)', '164.502(a)(2)', '164.512(e)', '164.512(e)(1)(i)', '164.512', '164.502(a)(1)']",Permit,HIPAA Privacy Rule is applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(e)(1)(i)', '164.512(i)(1)(ii)(A)', '164.512']",Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(j)(1)', '164.512(f)(1)(ii)(C)', '164.512(j)(1)(i)', '164.500', '164.512(f)', '164.512(f)(2)', '164.512(j)', '164.501', '164.512(e)', '164.502', '164.512']",Permit,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(e)(1)(i)', '164.512(e)(1)(v)']",Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(a)', '164.512(e)(1)', '164.512(e)(1)(iii)', '164.512(e)(1)(v)', '164.512(e)(1)(i)', '164.512', '164.512(e)(1)(ii)(B)', '164.512(e)(1)(iv)']",Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.526(a)(1)', '164.526']",Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(e)', '164.512(e)(1)(ii)']",Permit,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(a)(1)', '164.510(b)(5)', '164.510(b)', '164.502(a)', '164.502(g)(4)', '164.502(g)(1)', '164.502', '164.502(f)', '164.502(a)(1)', '164.512', '164.508(a)(1)']",Forbid,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+[],Not Applicable,HIPAA Privacy Rule is not applicable to the case.
+"['164.512(e)(1)(i)', '164.508(a)(1)', '164.508(b)(3)(i)', '164.508(b)(4)', '164.508(b)(5)', '164.508(c)(1)(i)', '164.508(c)(1)(iv)', '164.508(c)(1)', '164.508(b)(3)', '164.508(b)(4)(i)', '164.508(c)', '164.508', '164.512(e)(2)', '164.508(c)(2)', '164.512(a)', '164.502(a)', '164.512(e)', '164.508(b)(3)(iii)', '164.508(b)(2)', '164.512', '164.512(e)(1)']",Permit,HIPAA Privacy Rule is not applicable to the case.
+['164.520(a)'],Forbid,HIPAA Privacy Rule is not applicable to the case.
